@@ -12,4 +12,4 @@ dt : sampling time
 
 maxTime : final time for simulation
 
-Note: Remeber to run the initialization block (t=0) each time to initialize all states.
+Note: Remeber to run the initialization block (under "Preparation at t=0") each time to initialize all states.
