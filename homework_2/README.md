@@ -1,4 +1,4 @@
-You can run Homework1.ipynb each code blocks sequentially on Google Colab.
+You can run Homework2.ipynb each code blocks sequentially on Google Colab.
 
 There are some parameters you can change for simulation:
 
